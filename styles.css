@@ -1,20 +1,16 @@
-
 html {
     margin-left: 250px;
     margin-right: 250px;  
     background: url(https://wallpaperscraft.com/image/san_-_diego_skyscrapers_beach_palm_trees_california_usa_54916_2048x2048.jpg);
     background-size: 100%; 
     background-position-y: bottom;
-    background-attachment: fixed;
-      
+    background-attachment: fixed;  
 }
 
 body {
 color: whitesmoke;
 text-shadow: 1px 1px 2px black; 
 background: transparent;
-
-
 }
 
 h1 {
@@ -22,24 +18,22 @@ text-align: center;
 color:rgba(6, 6, 248, 0.753);
 text-shadow: 1px 1px 2px white;
 }
+
 th {
 text-align: center;
 background: rgba(230, 155, 106, 0.575);
 }
-
 
 td {
 padding: 20px;
 background: rgba(230, 155, 106, 0.575);
 border: solid;
 border-color: lightskyblue;
-
 }
 
 tr {
     border: solid; 
-    border-color: lightskyblue; 
-    
+    border-color: lightskyblue;  
     }
 
 a {
